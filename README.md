@@ -1,5 +1,5 @@
-# CRS Datasets - test
-This is data in RDF formulated according to the CRS Ontology.
+# CRS Dataset - test
+This is data from the CRS Database, formulated according to the CRS Ontology, and formatted in RDF (turtle).
 
 Data in this repository is a formulation of several table's worth of data from the [National Archives of Australia](http://www.naa.gov.au)'s *Commonwealth Record Series* database according to the [CRS Ontology](http://linked.data.gov.au/def/crs) developed within the [Longitudinal Spine of Government Functions](https://longspine.cat) project. The data is formatted in [RDF](https://www.w3.org/RDF/)'s [Turtle serialisation](https://www.w3.org/TR/turtle/).
 
