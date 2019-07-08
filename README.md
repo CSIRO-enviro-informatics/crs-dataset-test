@@ -18,6 +18,8 @@ The URI for this dataset is a text URI, i.e. not one that is guaranteed to persi
 * [data/CA1889.ttl](data/CA1889.ttl) - An extended formulation of longitudinal (temporal) information about the Commonwealth Agency 1889 - *Department of Northern Australia, Central Office*
 * [data/CP665.ttl](data/CP665.ttl) - An extended formulation of longitudinal (temporal) information about the Commonwealth Person 665 - *Paul Keating*
 
+The [source/](source/) folder contains raw data from the CRS database (in Excel) and intermediate files and scripts used to process it to created the files listed above.
+
 
 ## Rights and License
 All the contents of this repository are derived from NAA source data and thus the rights to that data reside with the NAA.
