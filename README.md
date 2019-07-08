@@ -5,6 +5,11 @@ Data in this repository is a formulation of several table's worth of data from t
 
 This dataset is considered a *test* because it is a static, one-off 'dump' of data from the internal CRS database and will not be updated. It is just for data demonstration purposes.
 
+The URI for this dataset is a text URI, i.e. not one that is guaranteed to persist or work. It is:
+
+* **<http://test.linked.data.gov.au/dataset/crs>**
+
+
 ## Data
 * [data/agency-functions.ttl](data/agency-functions.ttl) - Commonwealth Agencies's association with [CRS Thesuarus](http://linked.data.gov.au/def/crs-th) functions
 * [data/ca.ttl](data/ca.ttl) - Commonwealth Agencies
